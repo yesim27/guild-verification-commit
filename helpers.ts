@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T17:14:03.982Z
-Commit: Add dark mode support
+Timestamp: 2026-05-26T11:09:27.089Z
+Commit: Fix race condition in async operations
